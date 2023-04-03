@@ -29,3 +29,5 @@ Schlussfolgerung
 
 Aorus-Home ist ein nützliches Programm für Benutzer, die schnell und einfach Systeminformationen und Details zu ihren SSDs und Hardwarekomponenten anzeigen möchten.
 Das Programm ist einfach zu bedienen und erfordert keine besonderen Kenntnisse in der Programmierung oder Systemadministration.
+
+Copyright xeonios-studio ©
